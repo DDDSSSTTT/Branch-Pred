@@ -1,0 +1,200 @@
+-------make prediction--------
+bhr:0,gPredict:1
+pcIndex:1017,lPredict:1
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:0,gPredict:0
+pcIndex:30,lPredict:0
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:1,gPredict:1
+pcIndex:1017,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:3,gPredict:1
+pcIndex:30,lPredict:1
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:6,gPredict:1
+pcIndex:61,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:12,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:25,gPredict:1
+pcIndex:109,lPredict:0
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:51,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:103,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:207,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:415,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:319,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:127,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:255,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:511,gPredict:1
+pcIndex:109,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:511,gPredict:2
+pcIndex:109,lPredict:1
+choice:1
+prediction: 1
+outcome: 0
+-------make prediction--------
+bhr:510,gPredict:1
+pcIndex:119,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:508,gPredict:1
+pcIndex:156,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:505,gPredict:1
+pcIndex:156,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:499,gPredict:1
+pcIndex:156,lPredict:2
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:487,gPredict:1
+pcIndex:156,lPredict:2
+choice:2
+prediction: 1
+outcome: 0
+-------make prediction--------
+bhr:462,gPredict:1
+pcIndex:162,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:412,gPredict:1
+pcIndex:192,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:313,gPredict:1
+pcIndex:196,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:114,gPredict:1
+pcIndex:205,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:229,gPredict:1
+pcIndex:192,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:458,gPredict:1
+pcIndex:196,lPredict:2
+choice:0
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:405,gPredict:1
+pcIndex:205,lPredict:1
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:299,gPredict:1
+pcIndex:192,lPredict:1
+choice:0
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:87,gPredict:1
+pcIndex:196,lPredict:2
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:174,gPredict:1
+pcIndex:205,lPredict:3
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:348,gPredict:1
+pcIndex:231,lPredict:3
+choice:1
+prediction: 0
+outcome: 0
+-------make prediction--------
+bhr:184,gPredict:1
+pcIndex:291,lPredict:2
+choice:1
+prediction: 0
+outcome: 1
+-------make prediction--------
+bhr:369,gPredict:1

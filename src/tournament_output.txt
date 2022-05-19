@@ -1,0 +1,5000 @@
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 409
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -33570819
+LHT[651] after changing: -67141637
+global_history after the shift: 307
+---------make predicton----------
+addr_g:952, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 307
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -67141637
+LHT[651] after changing: -134283273
+global_history after the shift: 103
+---------make predicton----------
+addr_g:748, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 103
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -134283273
+LHT[651] after changing: -268566545
+global_history after the shift: 207
+---------make predicton----------
+addr_g:580, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 207
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -268566545
+LHT[651] after changing: -537133089
+global_history after the shift: 415
+---------make predicton----------
+addr_g:788, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 415
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -537133089
+LHT[651] after changing: -1074266177
+global_history after the shift: 319
+---------make predicton----------
+addr_g:948, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 319
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1074266177
+LHT[651] after changing: 2146434943
+global_history after the shift: 127
+---------make predicton----------
+addr_g:756, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 895, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 127
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: 2146434943
+LHT[651] after changing: -2097409
+global_history after the shift: 255
+---------make predicton----------
+addr_g:628, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 255
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -2097409
+LHT[651] after changing: -4194817
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -4194817
+LHT[651] after changing: -8389633
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -8389633
+LHT[651] after changing: -16779265
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 2
+LHT[651] before changing: -16779265
+LHT[651] after changing: -33558530
+global_history after the shift: 510
+---------make predicton----------
+addr_g:879, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 510
+pc_index: 657
+local_predictor_after: 0
+LHT[657] before changing: 0
+LHT[657] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:836, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 823, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 508
+pc_index: 696
+local_predictor_after: 2
+LHT[696] before changing: 2080348983
+LHT[696] after changing: -134269329
+global_history after the shift: 505
+---------make predicton----------
+addr_g:837, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 200, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 505
+pc_index: 700
+local_predictor_after: 1
+LHT[700] before changing: -2080348984
+LHT[700] after changing: 134269328
+global_history after the shift: 498
+---------make predicton----------
+addr_g:823, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 949, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 498
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: -613959755
+LHT[709] after changing: -1227919509
+global_history after the shift: 485
+---------make predicton----------
+addr_g:861, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 623, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 485
+pc_index: 696
+local_predictor_after: 2
+LHT[696] before changing: -134269329
+LHT[696] after changing: -268538658
+global_history after the shift: 458
+---------make predicton----------
+addr_g:886, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 400, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 458
+pc_index: 700
+local_predictor_after: 1
+LHT[700] before changing: 134269328
+LHT[700] after changing: 268538657
+global_history after the shift: 405
+---------make predicton----------
+addr_g:848, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 875, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 405
+pc_index: 709
+local_predictor_after: 2
+LHT[709] before changing: -1227919509
+LHT[709] after changing: 1839128279
+global_history after the shift: 299
+---------make predicton----------
+addr_g:915, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 222, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 299
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -268538658
+LHT[696] after changing: -537077315
+global_history after the shift: 87
+---------make predicton----------
+addr_g:747, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 801, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 87
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 268538657
+LHT[700] after changing: 537077314
+global_history after the shift: 174
+---------make predicton----------
+addr_g:619, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 727, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 174
+pc_index: 709
+local_predictor_after: 0
+LHT[709] before changing: 1839128279
+LHT[709] after changing: -616710738
+global_history after the shift: 348
+---------make predicton----------
+addr_g:899, g_pred:0
+l_pred:1,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 348
+pc_index: 735
+local_predictor_after: 0
+LHT[735] before changing: 134218784
+LHT[735] after changing: 268437568
+global_history after the shift: 184
+---------make predicton----------
+addr_g:935, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 854, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 184
+pc_index: 799
+local_predictor_after: 3
+LHT[799] before changing: 1840110422
+LHT[799] after changing: -614746451
+global_history after the shift: 369
+---------make predicton----------
+addr_g:179, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 369
+pc_index: 450
+local_predictor_after: 0
+LHT[450] before changing: 0
+LHT[450] after changing: 0
+global_history after the shift: 226
+---------make predicton----------
+addr_g:263, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 226
+pc_index: 485
+local_predictor_after: 0
+LHT[485] before changing: 0
+LHT[485] after changing: 0
+global_history after the shift: 452
+---------make predicton----------
+addr_g:973, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 293, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 452
+pc_index: 521
+local_predictor_after: 0
+LHT[521] before changing: 614769957
+LHT[521] after changing: 1229539914
+global_history after the shift: 392
+---------make predicton----------
+addr_g:932, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 362, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 392
+pc_index: 556
+local_predictor_after: 3
+LHT[556] before changing: 1840690538
+LHT[556] after changing: -613586219
+global_history after the shift: 273
+---------make predicton----------
+addr_g:792, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 586, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 273
+pc_index: 521
+local_predictor_after: 0
+LHT[521] before changing: 1229539914
+LHT[521] after changing: -1835887468
+global_history after the shift: 34
+---------make predicton----------
+addr_g:526, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 725, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 34
+pc_index: 556
+local_predictor_after: 3
+LHT[556] before changing: -613586219
+LHT[556] after changing: -1227172437
+global_history after the shift: 69
+---------make predicton----------
+addr_g:588, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 148, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 69
+pc_index: 521
+local_predictor_after: 3
+LHT[521] before changing: -1835887468
+LHT[521] after changing: 623192361
+global_history after the shift: 139
+---------make predicton----------
+addr_g:679, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 427, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 139
+pc_index: 556
+local_predictor_after: 0
+LHT[556] before changing: -1227172437
+LHT[556] after changing: 1840622422
+global_history after the shift: 278
+---------make predicton----------
+addr_g:849, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 278
+pc_index: 583
+local_predictor_after: 0
+LHT[583] before changing: 0
+LHT[583] after changing: 0
+global_history after the shift: 44
+---------make predicton----------
+addr_g:582, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 950, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 44
+pc_index: 618
+local_predictor_after: 3
+LHT[618] before changing: -17318986
+LHT[618] after changing: -34637971
+global_history after the shift: 89
+---------make predicton----------
+addr_g:563, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 877, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 89
+pc_index: 618
+local_predictor_after: 1
+LHT[618] before changing: -34637971
+LHT[618] after changing: -69275942
+global_history after the shift: 178
+---------make predicton----------
+addr_g:710, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 178
+pc_index: 628
+local_predictor_after: 0
+LHT[628] before changing: 0
+LHT[628] after changing: 0
+global_history after the shift: 356
+---------make predicton----------
+addr_g:1007, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 1022, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 356
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -33558530
+LHT[651] after changing: -67117059
+global_history after the shift: 201
+---------make predicton----------
+addr_g:578, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1021, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 201
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -67117059
+LHT[651] after changing: -134234117
+global_history after the shift: 403
+---------make predicton----------
+addr_g:792, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 403
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -134234117
+LHT[651] after changing: -268468233
+global_history after the shift: 295
+---------make predicton----------
+addr_g:940, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 295
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -268468233
+LHT[651] after changing: -536936465
+global_history after the shift: 79
+---------make predicton----------
+addr_g:708, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 79
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -536936465
+LHT[651] after changing: -1073872929
+global_history after the shift: 159
+---------make predicton----------
+addr_g:532, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 159
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1073872929
+LHT[651] after changing: 2147221439
+global_history after the shift: 319
+---------make predicton----------
+addr_g:948, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 319
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: 2147221439
+LHT[651] after changing: -524417
+global_history after the shift: 127
+---------make predicton----------
+addr_g:756, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 895, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 127
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -524417
+LHT[651] after changing: -1048833
+global_history after the shift: 255
+---------make predicton----------
+addr_g:628, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 255
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1048833
+LHT[651] after changing: -2097665
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -2097665
+LHT[651] after changing: -4195329
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -4195329
+LHT[651] after changing: -8390657
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -8390657
+LHT[651] after changing: -16781313
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -16781313
+LHT[651] after changing: -33562625
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 2
+LHT[651] before changing: -33562625
+LHT[651] after changing: -67125250
+global_history after the shift: 510
+---------make predicton----------
+addr_g:879, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 510
+pc_index: 657
+local_predictor_after: 0
+LHT[657] before changing: 0
+LHT[657] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:836, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 445, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 508
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -537077315
+LHT[696] after changing: -1074154629
+global_history after the shift: 505
+---------make predicton----------
+addr_g:837, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 578, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 505
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 537077314
+LHT[700] after changing: 1074154628
+global_history after the shift: 498
+---------make predicton----------
+addr_g:823, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 430, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 498
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: -616710738
+LHT[709] after changing: -1233421475
+global_history after the shift: 485
+---------make predicton----------
+addr_g:861, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 891, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 485
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -1074154629
+LHT[696] after changing: 2146658039
+global_history after the shift: 459
+---------make predicton----------
+addr_g:887, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 132, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 459
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 1074154628
+LHT[700] after changing: -2146658040
+global_history after the shift: 406
+---------make predicton----------
+addr_g:851, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 861, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 406
+pc_index: 709
+local_predictor_after: 0
+LHT[709] before changing: -1233421475
+LHT[709] after changing: 1828124346
+global_history after the shift: 300
+---------make predicton----------
+addr_g:1011, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 300
+pc_index: 735
+local_predictor_after: 0
+LHT[735] before changing: 268437568
+LHT[735] after changing: 536875136
+global_history after the shift: 88
+---------make predicton----------
+addr_g:839, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 685, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 88
+pc_index: 799
+local_predictor_after: 2
+LHT[799] before changing: -614746451
+LHT[799] after changing: -1229492901
+global_history after the shift: 177
+---------make predicton----------
+addr_g:371, g_pred:1
+l_pred:0,g_pred:1
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 177
+pc_index: 450
+local_predictor_after: 0
+LHT[450] before changing: 0
+LHT[450] after changing: 0
+global_history after the shift: 354
+---------make predicton----------
+addr_g:135, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 354
+pc_index: 485
+local_predictor_after: 0
+LHT[485] before changing: 0
+LHT[485] after changing: 0
+global_history after the shift: 196
+---------make predicton----------
+addr_g:717, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 297, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 196
+pc_index: 521
+local_predictor_after: 0
+LHT[521] before changing: 623192361
+LHT[521] after changing: 1246384722
+global_history after the shift: 392
+---------make predicton----------
+addr_g:932, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 854, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 392
+pc_index: 556
+local_predictor_after: 3
+LHT[556] before changing: 1840622422
+LHT[556] after changing: -613722451
+global_history after the shift: 273
+---------make predicton----------
+addr_g:792, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 594, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 273
+pc_index: 521
+local_predictor_after: 0
+LHT[521] before changing: 1246384722
+LHT[521] after changing: -1802197852
+global_history after the shift: 34
+---------make predicton----------
+addr_g:526, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 685, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 34
+pc_index: 556
+local_predictor_after: 3
+LHT[556] before changing: -613722451
+LHT[556] after changing: -1227444901
+global_history after the shift: 69
+---------make predicton----------
+addr_g:588, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 164, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 69
+pc_index: 521
+local_predictor_after: 3
+LHT[521] before changing: -1802197852
+LHT[521] after changing: 690571593
+global_history after the shift: 139
+---------make predicton----------
+addr_g:679, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 347, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 139
+pc_index: 556
+local_predictor_after: 0
+LHT[556] before changing: -1227444901
+LHT[556] after changing: 1840077494
+global_history after the shift: 278
+---------make predicton----------
+addr_g:849, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 278
+pc_index: 583
+local_predictor_after: 0
+LHT[583] before changing: 0
+LHT[583] after changing: 0
+global_history after the shift: 44
+---------make predicton----------
+addr_g:582, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 730, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 44
+pc_index: 618
+local_predictor_after: 2
+LHT[618] before changing: -69275942
+LHT[618] after changing: -138551884
+global_history after the shift: 88
+---------make predicton----------
+addr_g:556, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 88
+pc_index: 628
+local_predictor_after: 0
+LHT[628] before changing: 0
+LHT[628] after changing: 0
+global_history after the shift: 176
+---------make predicton----------
+addr_g:571, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 1022, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 176
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -67125250
+LHT[651] after changing: -134250499
+global_history after the shift: 353
+---------make predicton----------
+addr_g:1002, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1021, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 353
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -134250499
+LHT[651] after changing: -268500997
+global_history after the shift: 195
+---------make predicton----------
+addr_g:584, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 195
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -268500997
+LHT[651] after changing: -537001993
+global_history after the shift: 391
+---------make predicton----------
+addr_g:780, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 391
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -537001993
+LHT[651] after changing: -1074003985
+global_history after the shift: 271
+---------make predicton----------
+addr_g:900, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 271
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1074003985
+LHT[651] after changing: 2146959327
+global_history after the shift: 31
+---------make predicton----------
+addr_g:660, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 31
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: 2146959327
+LHT[651] after changing: -1048641
+global_history after the shift: 63
+---------make predicton----------
+addr_g:692, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 63
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1048641
+LHT[651] after changing: -2097281
+global_history after the shift: 127
+---------make predicton----------
+addr_g:756, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 895, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 127
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -2097281
+LHT[651] after changing: -4194561
+global_history after the shift: 255
+---------make predicton----------
+addr_g:628, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 255
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -4194561
+LHT[651] after changing: -8389121
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -8389121
+LHT[651] after changing: -16778241
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -16778241
+LHT[651] after changing: -33556481
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -33556481
+LHT[651] after changing: -67112961
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -67112961
+LHT[651] after changing: -134225921
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 2
+LHT[651] before changing: -134225921
+LHT[651] after changing: -268451842
+global_history after the shift: 510
+---------make predicton----------
+addr_g:879, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 510
+pc_index: 657
+local_predictor_after: 0
+LHT[657] before changing: 0
+LHT[657] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:836, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 759, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 508
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: 2146658039
+LHT[696] after changing: -1651217
+global_history after the shift: 505
+---------make predicton----------
+addr_g:837, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 264, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 505
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: -2146658040
+LHT[700] after changing: 1651216
+global_history after the shift: 498
+---------make predicton----------
+addr_g:823, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 698, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 498
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: 1828124346
+LHT[709] after changing: -638718603
+global_history after the shift: 485
+---------make predicton----------
+addr_g:861, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 495, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 485
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -1651217
+LHT[696] after changing: -3302433
+global_history after the shift: 459
+---------make predicton----------
+addr_g:887, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 528, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 459
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 1651216
+LHT[700] after changing: 3302432
+global_history after the shift: 406
+---------make predicton----------
+addr_g:851, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 373, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 406
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: -638718603
+LHT[709] after changing: -1277437205
+global_history after the shift: 301
+---------make predicton----------
+addr_g:917, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 301
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -3302433
+LHT[696] after changing: -6604865
+global_history after the shift: 91
+---------make predicton----------
+addr_g:743, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 32, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 91
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 3302432
+LHT[700] after changing: 6604864
+global_history after the shift: 182
+---------make predicton----------
+addr_g:627, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 747, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 182
+pc_index: 709
+local_predictor_after: 0
+LHT[709] before changing: -1277437205
+LHT[709] after changing: 1740092886
+global_history after the shift: 364
+---------make predicton----------
+addr_g:947, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 364
+pc_index: 735
+local_predictor_after: 0
+LHT[735] before changing: 536875136
+LHT[735] after changing: 1073750272
+global_history after the shift: 216
+---------make predicton----------
+addr_g:967, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 347, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 216
+pc_index: 799
+local_predictor_after: 1
+LHT[799] before changing: -1229492901
+LHT[799] after changing: 1835981495
+global_history after the shift: 433
+---------make predicton----------
+addr_g:115, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 433
+pc_index: 450
+local_predictor_after: 0
+LHT[450] before changing: 0
+LHT[450] after changing: 0
+global_history after the shift: 354
+---------make predicton----------
+addr_g:135, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 354
+pc_index: 485
+local_predictor_after: 0
+LHT[485] before changing: 0
+LHT[485] after changing: 0
+global_history after the shift: 196
+---------make predicton----------
+addr_g:717, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 329, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 196
+pc_index: 521
+local_predictor_after: 0
+LHT[521] before changing: 690571593
+LHT[521] after changing: 1381143186
+global_history after the shift: 392
+---------make predicton----------
+addr_g:932, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 694, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 392
+pc_index: 556
+local_predictor_after: 3
+LHT[556] before changing: 1840077494
+LHT[556] after changing: -614812307
+global_history after the shift: 273
+---------make predicton----------
+addr_g:792, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 658, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 273
+pc_index: 521
+local_predictor_after: 1
+LHT[521] before changing: 1381143186
+LHT[521] after changing: -1532680924
+global_history after the shift: 34
+---------make predicton----------
+addr_g:526, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 365, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 34
+pc_index: 556
+local_predictor_after: 2
+LHT[556] before changing: -614812307
+LHT[556] after changing: -1229624613
+global_history after the shift: 69
+---------make predicton----------
+addr_g:588, g_pred:0
+l_pred:2,g_pred:0
+With selector = 2
+addr_l = 292, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 69
+pc_index: 521
+local_predictor_after: 3
+LHT[521] before changing: -1532680924
+LHT[521] after changing: 1229605449
+global_history after the shift: 139
+---------make predicton----------
+addr_g:679, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 731, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 139
+pc_index: 556
+local_predictor_after: 0
+LHT[556] before changing: -1229624613
+LHT[556] after changing: 1835718070
+global_history after the shift: 278
+---------make predicton----------
+addr_g:849, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 278
+pc_index: 583
+local_predictor_after: 0
+LHT[583] before changing: 0
+LHT[583] after changing: 0
+global_history after the shift: 44
+---------make predicton----------
+addr_g:582, g_pred:0
+l_pred:3,g_pred:0
+With selector = 1
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 44
+pc_index: 618
+local_predictor_after: 3
+LHT[618] before changing: -138551884
+LHT[618] after changing: -277103767
+global_history after the shift: 89
+---------make predicton----------
+addr_g:563, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 873, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 89
+pc_index: 618
+local_predictor_after: 3
+LHT[618] before changing: -277103767
+LHT[618] after changing: -554207533
+global_history after the shift: 179
+---------make predicton----------
+addr_g:729, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 723, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 179
+pc_index: 618
+local_predictor_after: 0
+LHT[618] before changing: -554207533
+LHT[618] after changing: -1108415066
+global_history after the shift: 358
+---------make predicton----------
+addr_g:786, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 358
+pc_index: 628
+local_predictor_after: 0
+LHT[628] before changing: 0
+LHT[628] after changing: 0
+global_history after the shift: 204
+---------make predicton----------
+addr_g:583, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 1022, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 204
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -268451842
+LHT[651] after changing: -536903683
+global_history after the shift: 409
+---------make predicton----------
+addr_g:786, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1021, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 409
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -536903683
+LHT[651] after changing: -1073807365
+global_history after the shift: 307
+---------make predicton----------
+addr_g:952, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 307
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1073807365
+LHT[651] after changing: 2147352567
+global_history after the shift: 103
+---------make predicton----------
+addr_g:748, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 103
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: 2147352567
+LHT[651] after changing: -262161
+global_history after the shift: 207
+---------make predicton----------
+addr_g:580, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 207
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -262161
+LHT[651] after changing: -524321
+global_history after the shift: 415
+---------make predicton----------
+addr_g:788, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 415
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -524321
+LHT[651] after changing: -1048641
+global_history after the shift: 319
+---------make predicton----------
+addr_g:948, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 319
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -1048641
+LHT[651] after changing: -2097281
+global_history after the shift: 127
+---------make predicton----------
+addr_g:756, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 895, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 127
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -2097281
+LHT[651] after changing: -4194561
+global_history after the shift: 255
+---------make predicton----------
+addr_g:628, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 255
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -4194561
+LHT[651] after changing: -8389121
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 3
+LHT[651] before changing: -8389121
+LHT[651] after changing: -16778241
+global_history after the shift: 511
+---------make predicton----------
+addr_g:884, g_pred:0
+l_pred:2,g_pred:0
+With selector = 3
+addr_l = 1023, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 651
+local_predictor_after: 1
+LHT[651] before changing: -16778241
+LHT[651] after changing: -33556482
+global_history after the shift: 510
+---------make predicton----------
+addr_g:879, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 510
+pc_index: 657
+local_predictor_after: 0
+LHT[657] before changing: 0
+LHT[657] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:836, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 508
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -6604865
+LHT[696] after changing: -13209729
+global_history after the shift: 505
+---------make predicton----------
+addr_g:837, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 64, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 505
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 6604864
+LHT[700] after changing: 13209728
+global_history after the shift: 498
+---------make predicton----------
+addr_g:823, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 470, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 498
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: 1740092886
+LHT[709] after changing: -814781523
+global_history after the shift: 485
+---------make predicton----------
+addr_g:861, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 895, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 485
+pc_index: 696
+local_predictor_after: 2
+LHT[696] before changing: -13209729
+LHT[696] after changing: -26419458
+global_history after the shift: 458
+---------make predicton----------
+addr_g:886, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 128, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 458
+pc_index: 700
+local_predictor_after: 1
+LHT[700] before changing: 13209728
+LHT[700] after changing: 26419457
+global_history after the shift: 405
+---------make predicton----------
+addr_g:848, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 941, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 405
+pc_index: 709
+local_predictor_after: 3
+LHT[709] before changing: -814781523
+LHT[709] after changing: -1629563045
+global_history after the shift: 299
+---------make predicton----------
+addr_g:915, g_pred:0
+l_pred:2,g_pred:0
+With selector = 2
+addr_l = 766, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 299
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -26419458
+LHT[696] after changing: -52838915
+global_history after the shift: 87
+---------make predicton----------
+addr_g:747, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 257, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 87
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 26419457
+LHT[700] after changing: 52838914
+global_history after the shift: 174
+---------make predicton----------
+addr_g:619, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 859, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 174
+pc_index: 709
+local_predictor_after: 1
+LHT[709] before changing: -1629563045
+LHT[709] after changing: 1035841207
+global_history after the shift: 349
+---------make predicton----------
+addr_g:997, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 509, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 349
+pc_index: 696
+local_predictor_after: 3
+LHT[696] before changing: -52838915
+LHT[696] after changing: -105677829
+global_history after the shift: 187
+---------make predicton----------
+addr_g:519, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 514, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 187
+pc_index: 700
+local_predictor_after: 0
+LHT[700] before changing: 52838914
+LHT[700] after changing: 105677828
+global_history after the shift: 374
+---------make predicton----------
+addr_g:947, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 695, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 374
+pc_index: 709
+local_predictor_after: 0
+LHT[709] before changing: 1035841207
+LHT[709] after changing: 2071682414
+global_history after the shift: 236
+---------make predicton----------
+addr_g:563, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 236
+pc_index: 735
+local_predictor_after: 0
+LHT[735] before changing: 1073750272
+LHT[735] after changing: -2147466752
+global_history after the shift: 472
+---------make predicton----------
+addr_g:711, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 695, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 472
+pc_index: 799
+local_predictor_after: 0
+LHT[799] before changing: 1835981495
+LHT[799] after changing: -623004306
+global_history after the shift: 432
+---------make predicton----------
+addr_g:646, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 432
+pc_index: 822
+local_predictor_after: 0
+LHT[822] before changing: 0
+LHT[822] after changing: 0
+global_history after the shift: 352
+---------make predicton----------
+addr_g:715, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 352
+pc_index: 939
+local_predictor_after: 0
+LHT[939] before changing: -67109376
+LHT[939] after changing: -134218752
+global_history after the shift: 192
+---------make predicton----------
+addr_g:781, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 192
+pc_index: 973
+local_predictor_after: 0
+LHT[973] before changing: 0
+LHT[973] after changing: 0
+global_history after the shift: 384
+---------make predicton----------
+addr_g:633, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 384
+pc_index: 1017
+local_predictor_after: 0
+LHT[1017] before changing: 17186
+LHT[1017] after changing: 34372
+global_history after the shift: 256
+---------make predicton----------
+addr_g:286, g_pred:3
+l_pred:3,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 256
+pc_index: 30
+local_predictor_after: 3
+LHT[30] before changing: -268440138
+LHT[30] after changing: -536880275
+global_history after the shift: 1
+---------make predicton----------
+addr_g:1016, g_pred:0
+l_pred:3,g_pred:0
+With selector = 0
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 1
+pc_index: 1017
+local_predictor_after: 3
+LHT[1017] before changing: 34372
+LHT[1017] after changing: 68745
+global_history after the shift: 3
+---------make predicton----------
+addr_g:29, g_pred:3
+l_pred:1,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 3
+pc_index: 30
+local_predictor_after: 2
+LHT[30] before changing: -536880275
+LHT[30] after changing: -1073760549
+global_history after the shift: 7
+---------make predicton----------
+addr_g:1022, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 7
+pc_index: 1017
+local_predictor_after: 0
+LHT[1017] before changing: 68745
+LHT[1017] after changing: 137490
+global_history after the shift: 14
+---------make predicton----------
+addr_g:16, g_pred:1
+l_pred:0,g_pred:1
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 14
+pc_index: 30
+local_predictor_after: 0
+LHT[30] before changing: -1073760549
+LHT[30] after changing: 2147446198
+global_history after the shift: 28
+---------make predicton----------
+addr_g:33, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 28
+pc_index: 61
+local_predictor_after: 0
+LHT[61] before changing: 0
+LHT[61] after changing: 0
+global_history after the shift: 56
+---------make predicton----------
+addr_g:85, g_pred:3
+l_pred:3,g_pred:3
+With selector = 3
+addr_l = 726, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 56
+pc_index: 109
+local_predictor_after: 3
+LHT[109] before changing: -8440106
+LHT[109] after changing: -16880211
+global_history after the shift: 113
+---------make predicton----------
+addr_g:28, g_pred:3
+l_pred:2,g_pred:3
+With selector = 3
+addr_l = 429, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 113
+pc_index: 109
+local_predictor_after: 3
+LHT[109] before changing: -16880211
+LHT[109] after changing: -33760421
+global_history after the shift: 227
+---------make predicton----------
+addr_g:142, g_pred:2
+l_pred:1,g_pred:2
+With selector = 3
+addr_l = 859, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 227
+pc_index: 109
+local_predictor_after: 2
+LHT[109] before changing: -33760421
+LHT[109] after changing: -67520841
+global_history after the shift: 455
+---------make predicton----------
+addr_g:426, g_pred:3
+l_pred:0,g_pred:3
+With selector = 2
+addr_l = 695, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 455
+pc_index: 109
+local_predictor_after: 0
+LHT[109] before changing: -67520841
+LHT[109] after changing: -135041682
+global_history after the shift: 398
+---------make predicton----------
+addr_g:505, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 398
+pc_index: 119
+local_predictor_after: 0
+LHT[119] before changing: 0
+LHT[119] after changing: 0
+global_history after the shift: 284
+---------make predicton----------
+addr_g:384, g_pred:2
+l_pred:3,g_pred:2
+With selector = 3
+addr_l = 1022, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 284
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -33556482
+LHT[156] after changing: -67112963
+global_history after the shift: 57
+---------make predicton----------
+addr_g:165, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 1021, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 57
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -67112963
+LHT[156] after changing: -134225925
+global_history after the shift: 115
+---------make predicton----------
+addr_g:239, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 115
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -134225925
+LHT[156] after changing: -268451849
+global_history after the shift: 231
+---------make predicton----------
+addr_g:123, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 231
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -268451849
+LHT[156] after changing: -536903697
+global_history after the shift: 463
+---------make predicton----------
+addr_g:339, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 463
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -536903697
+LHT[156] after changing: -1073807393
+global_history after the shift: 415
+---------make predicton----------
+addr_g:259, g_pred:3
+l_pred:3,g_pred:3
+With selector = 3
+addr_l = 991, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 415
+pc_index: 156
+local_predictor_after: 2
+LHT[156] before changing: -1073807393
+LHT[156] after changing: 2147352510
+global_history after the shift: 318
+---------make predicton----------
+addr_g:412, g_pred:1
+l_pred:0,g_pred:1
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 318
+pc_index: 162
+local_predictor_after: 0
+LHT[162] before changing: 0
+LHT[162] after changing: 0
+global_history after the shift: 124
+---------make predicton----------
+addr_g:188, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 124
+pc_index: 192
+local_predictor_after: 3
+LHT[192] before changing: -17433735
+LHT[192] after changing: -34867469
+global_history after the shift: 249
+---------make predicton----------
+addr_g:61, g_pred:3
+l_pred:0,g_pred:3
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 249
+pc_index: 196
+local_predictor_after: 0
+LHT[196] before changing: 17433734
+LHT[196] after changing: 34867468
+global_history after the shift: 498
+---------make predicton----------
+addr_g:319, g_pred:3
+l_pred:3,g_pred:3
+With selector = 3
+addr_l = 430, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 498
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -134226514
+LHT[205] after changing: -268453027
+global_history after the shift: 485
+---------make predicton----------
+addr_g:293, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 485
+pc_index: 192
+local_predictor_after: 2
+LHT[192] before changing: -34867469
+LHT[192] after changing: -69734938
+global_history after the shift: 458
+---------make predicton----------
+addr_g:270, g_pred:3
+l_pred:1,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 458
+pc_index: 196
+local_predictor_after: 2
+LHT[196] before changing: 34867468
+LHT[196] after changing: 69734937
+global_history after the shift: 405
+---------make predicton----------
+addr_g:344, g_pred:3
+l_pred:0,g_pred:3
+With selector = 3
+addr_l = 861, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 405
+pc_index: 205
+local_predictor_after: 1
+LHT[205] before changing: -268453027
+LHT[205] after changing: -536906053
+global_history after the shift: 299
+---------make predicton----------
+addr_g:491, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 299
+pc_index: 192
+local_predictor_after: 2
+LHT[192] before changing: -69734938
+LHT[192] after changing: -139469876
+global_history after the shift: 86
+---------make predicton----------
+addr_g:146, g_pred:3
+l_pred:0,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 86
+pc_index: 196
+local_predictor_after: 1
+LHT[196] before changing: 69734937
+LHT[196] after changing: 139469875
+global_history after the shift: 173
+---------make predicton----------
+addr_g:96, g_pred:3
+l_pred:2,g_pred:3
+With selector = 2
+addr_l = 699, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 173
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -536906053
+LHT[205] after changing: -1073812105
+global_history after the shift: 347
+---------make predicton----------
+addr_g:411, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 347
+pc_index: 192
+local_predictor_after: 1
+LHT[192] before changing: -139469876
+LHT[192] after changing: -278939752
+global_history after the shift: 182
+---------make predicton----------
+addr_g:114, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 182
+pc_index: 196
+local_predictor_after: 3
+LHT[196] before changing: 139469875
+LHT[196] after changing: 278939751
+global_history after the shift: 365
+---------make predicton----------
+addr_g:416, g_pred:2
+l_pred:2,g_pred:2
+With selector = 2
+addr_l = 375, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 365
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -1073812105
+LHT[205] after changing: 2147343087
+global_history after the shift: 219
+---------make predicton----------
+addr_g:27, g_pred:3
+l_pred:1,g_pred:3
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 219
+pc_index: 192
+local_predictor_after: 0
+LHT[192] before changing: -278939752
+LHT[192] after changing: -557879504
+global_history after the shift: 438
+---------make predicton----------
+addr_g:370, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 438
+pc_index: 196
+local_predictor_after: 3
+LHT[196] before changing: 278939751
+LHT[196] after changing: 557879503
+global_history after the shift: 365
+---------make predicton----------
+addr_g:416, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 751, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 365
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: 2147343087
+LHT[205] after changing: -281121
+global_history after the shift: 219
+---------make predicton----------
+addr_g:27, g_pred:2
+l_pred:1,g_pred:2
+With selector = 1
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 219
+pc_index: 192
+local_predictor_after: 0
+LHT[192] before changing: -557879504
+LHT[192] after changing: -1115759008
+global_history after the shift: 438
+---------make predicton----------
+addr_g:370, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 438
+pc_index: 196
+local_predictor_after: 3
+LHT[196] before changing: 557879503
+LHT[196] after changing: 1115759007
+global_history after the shift: 365
+---------make predicton----------
+addr_g:416, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 479, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 365
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -281121
+LHT[205] after changing: -562241
+global_history after the shift: 219
+---------make predicton----------
+addr_g:27, g_pred:1
+l_pred:2,g_pred:1
+With selector = 2
+addr_l = 608, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 219
+pc_index: 192
+local_predictor_after: 1
+LHT[192] before changing: -1115759008
+LHT[192] after changing: 2063449280
+global_history after the shift: 438
+---------make predicton----------
+addr_g:370, g_pred:3
+l_pred:1,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 438
+pc_index: 196
+local_predictor_after: 2
+LHT[196] before changing: 1115759007
+LHT[196] after changing: -2063449281
+global_history after the shift: 365
+---------make predicton----------
+addr_g:416, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 365
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -562241
+LHT[205] after changing: -1124481
+global_history after the shift: 219
+---------make predicton----------
+addr_g:27, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 219
+pc_index: 192
+local_predictor_after: 1
+LHT[192] before changing: 2063449280
+LHT[192] after changing: -168068735
+global_history after the shift: 439
+---------make predicton----------
+addr_g:371, g_pred:0
+l_pred:3,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 439
+pc_index: 196
+local_predictor_after: 2
+LHT[196] before changing: -2063449281
+LHT[196] after changing: 168068734
+global_history after the shift: 366
+---------make predicton----------
+addr_g:419, g_pred:2
+l_pred:2,g_pred:2
+With selector = 2
+addr_l = 895, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 366
+pc_index: 205
+local_predictor_after: 1
+LHT[205] before changing: -1124481
+LHT[205] after changing: -2248962
+global_history after the shift: 220
+---------make predicton----------
+addr_g:59, g_pred:1
+l_pred:0,g_pred:1
+With selector = 2
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 220
+pc_index: 231
+local_predictor_after: 0
+LHT[231] before changing: 67158016
+LHT[231] after changing: 134316032
+global_history after the shift: 440
+---------make predicton----------
+addr_g:155, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 694, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 440
+pc_index: 291
+local_predictor_after: 3
+LHT[291] before changing: -307317066
+LHT[291] after changing: -614634131
+global_history after the shift: 369
+---------make predicton----------
+addr_g:730, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 369
+pc_index: 939
+local_predictor_after: 0
+LHT[939] before changing: -134218752
+LHT[939] after changing: -268437504
+global_history after the shift: 226
+---------make predicton----------
+addr_g:815, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 226
+pc_index: 973
+local_predictor_after: 0
+LHT[973] before changing: 0
+LHT[973] after changing: 0
+global_history after the shift: 452
+---------make predicton----------
+addr_g:573, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 452
+pc_index: 1017
+local_predictor_after: 0
+LHT[1017] before changing: 137490
+LHT[1017] after changing: 274980
+global_history after the shift: 392
+---------make predicton----------
+addr_g:406, g_pred:3
+l_pred:3,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 392
+pc_index: 30
+local_predictor_after: 3
+LHT[30] before changing: 2147446198
+LHT[30] after changing: -74899
+global_history after the shift: 273
+---------make predicton----------
+addr_g:744, g_pred:0
+l_pred:3,g_pred:0
+With selector = 1
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 273
+pc_index: 1017
+local_predictor_after: 3
+LHT[1017] before changing: 274980
+LHT[1017] after changing: 549961
+global_history after the shift: 35
+---------make predicton----------
+addr_g:61, g_pred:1
+l_pred:2,g_pred:1
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 35
+pc_index: 30
+local_predictor_after: 1
+LHT[30] before changing: -74899
+LHT[30] after changing: -149798
+global_history after the shift: 70
+---------make predicton----------
+addr_g:123, g_pred:1
+l_pred:0,g_pred:1
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 70
+pc_index: 61
+local_predictor_after: 0
+LHT[61] before changing: 0
+LHT[61] after changing: 0
+global_history after the shift: 140
+---------make predicton----------
+addr_g:225, g_pred:2
+l_pred:3,g_pred:2
+With selector = 3
+addr_l = 366, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 140
+pc_index: 109
+local_predictor_after: 3
+LHT[109] before changing: -135041682
+LHT[109] after changing: -270083363
+global_history after the shift: 281
+---------make predicton----------
+addr_g:372, g_pred:2
+l_pred:3,g_pred:2
+With selector = 3
+addr_l = 733, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 281
+pc_index: 109
+local_predictor_after: 3
+LHT[109] before changing: -270083363
+LHT[109] after changing: -540166725
+global_history after the shift: 51
+---------make predicton----------
+addr_g:94, g_pred:2
+l_pred:0,g_pred:2
+With selector = 3
+addr_l = 443, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 51
+pc_index: 109
+local_predictor_after: 1
+LHT[109] before changing: -540166725
+LHT[109] after changing: -1080333449
+global_history after the shift: 103
+---------make predicton----------
+addr_g:10, g_pred:1
+l_pred:2,g_pred:1
+With selector = 2
+addr_l = 887, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 103
+pc_index: 109
+local_predictor_after: 1
+LHT[109] before changing: -1080333449
+LHT[109] after changing: 2134300398
+global_history after the shift: 206
+---------make predicton----------
+addr_g:185, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 206
+pc_index: 119
+local_predictor_after: 0
+LHT[119] before changing: 0
+LHT[119] after changing: 0
+global_history after the shift: 412
+---------make predicton----------
+addr_g:256, g_pred:3
+l_pred:3,g_pred:3
+With selector = 3
+addr_l = 958, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 412
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: 2147352510
+LHT[156] after changing: -262275
+global_history after the shift: 313
+---------make predicton----------
+addr_g:421, g_pred:3
+l_pred:3,g_pred:3
+With selector = 3
+addr_l = 893, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 313
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -262275
+LHT[156] after changing: -524549
+global_history after the shift: 115
+---------make predicton----------
+addr_g:239, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 763, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 115
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -524549
+LHT[156] after changing: -1049097
+global_history after the shift: 231
+---------make predicton----------
+addr_g:123, g_pred:0
+l_pred:3,g_pred:0
+With selector = 3
+addr_l = 503, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 231
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -1049097
+LHT[156] after changing: -2098193
+global_history after the shift: 463
+---------make predicton----------
+addr_g:339, g_pred:2
+l_pred:3,g_pred:2
+With selector = 3
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 463
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -2098193
+LHT[156] after changing: -4196385
+global_history after the shift: 415
+---------make predicton----------
+addr_g:259, g_pred:2
+l_pred:2,g_pred:2
+With selector = 3
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 415
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -4196385
+LHT[156] after changing: -8392769
+global_history after the shift: 319
+---------make predicton----------
+addr_g:419, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 319
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -8392769
+LHT[156] after changing: -16785537
+global_history after the shift: 127
+---------make predicton----------
+addr_g:227, g_pred:3
+l_pred:1,g_pred:3
+With selector = 3
+addr_l = 895, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 127
+pc_index: 156
+local_predictor_after: 2
+LHT[156] before changing: -16785537
+LHT[156] after changing: -33571073
+global_history after the shift: 255
+---------make predicton----------
+addr_g:99, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 255
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -33571073
+LHT[156] after changing: -67142145
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:2
+l_pred:3,g_pred:2
+With selector = 2
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -67142145
+LHT[156] after changing: -134284289
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:3
+l_pred:1,g_pred:3
+With selector = 2
+addr_l = 1023, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 2
+LHT[156] before changing: -134284289
+LHT[156] after changing: -268568577
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:3
+l_pred:2,g_pred:3
+With selector = 1
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 1
+LHT[156] before changing: -268568577
+LHT[156] after changing: -537137154
+global_history after the shift: 510
+---------make predicton----------
+addr_g:348, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 510
+pc_index: 162
+local_predictor_after: 0
+LHT[162] before changing: 0
+LHT[162] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:316, g_pred:3
+l_pred:2,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 508
+pc_index: 192
+local_predictor_after: 3
+LHT[192] before changing: -168068735
+LHT[192] after changing: -336137469
+global_history after the shift: 505
+---------make predicton----------
+addr_g:317, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 505
+pc_index: 196
+local_predictor_after: 1
+LHT[196] before changing: 168068734
+LHT[196] after changing: 336137468
+global_history after the shift: 498
+---------make predicton----------
+addr_g:319, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 766, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 498
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -2248962
+LHT[205] after changing: -4497923
+global_history after the shift: 485
+---------make predicton----------
+addr_g:293, g_pred:1
+l_pred:1,g_pred:1
+With selector = 1
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 485
+pc_index: 192
+local_predictor_after: 2
+LHT[192] before changing: -336137469
+LHT[192] after changing: -672274937
+global_history after the shift: 459
+---------make predicton----------
+addr_g:271, g_pred:0
+l_pred:3,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 459
+pc_index: 196
+local_predictor_after: 2
+LHT[196] before changing: 336137468
+LHT[196] after changing: 672274936
+global_history after the shift: 406
+---------make predicton----------
+addr_g:347, g_pred:1
+l_pred:3,g_pred:1
+With selector = 2
+addr_l = 509, using local result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 406
+pc_index: 205
+local_predictor_after: 2
+LHT[205] before changing: -4497923
+LHT[205] after changing: -8995846
+global_history after the shift: 300
+---------make predicton----------
+addr_g:459, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 300
+pc_index: 231
+local_predictor_after: 0
+LHT[231] before changing: 134316032
+LHT[231] after changing: 268632064
+global_history after the shift: 88
+---------make predicton----------
+addr_g:379, g_pred:3
+l_pred:2,g_pred:3
+With selector = 3
+addr_l = 365, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 88
+pc_index: 291
+local_predictor_after: 3
+LHT[291] before changing: -614634131
+LHT[291] after changing: -1229268261
+global_history after the shift: 177
+---------make predicton----------
+addr_g:794, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 177
+pc_index: 939
+local_predictor_after: 0
+LHT[939] before changing: -268437504
+LHT[939] after changing: -536875008
+global_history after the shift: 354
+---------make predicton----------
+addr_g:687, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 354
+pc_index: 973
+local_predictor_after: 0
+LHT[973] before changing: 0
+LHT[973] after changing: 0
+global_history after the shift: 196
+---------make predicton----------
+addr_g:829, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 73, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 196
+pc_index: 1017
+local_predictor_after: 0
+LHT[1017] before changing: 549961
+LHT[1017] after changing: 1099922
+global_history after the shift: 392
+---------make predicton----------
+addr_g:406, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 392
+pc_index: 30
+local_predictor_after: 3
+LHT[30] before changing: -149798
+LHT[30] after changing: -299595
+global_history after the shift: 273
+---------make predicton----------
+addr_g:744, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 146, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 273
+pc_index: 1017
+local_predictor_after: 0
+LHT[1017] before changing: 1099922
+LHT[1017] after changing: 2199844
+global_history after the shift: 34
+---------make predicton----------
+addr_g:60, g_pred:3
+l_pred:3,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 34
+pc_index: 30
+local_predictor_after: 3
+LHT[30] before changing: -299595
+LHT[30] after changing: -599189
+global_history after the shift: 69
+---------make predicton----------
+addr_g:956, g_pred:0
+l_pred:3,g_pred:0
+With selector = 2
+addr_l = 292, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 69
+pc_index: 1017
+local_predictor_after: 3
+LHT[1017] before changing: 2199844
+LHT[1017] after changing: 4399689
+global_history after the shift: 139
+---------make predicton----------
+addr_g:149, g_pred:2
+l_pred:2,g_pred:2
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 139
+pc_index: 30
+local_predictor_after: 1
+LHT[30] before changing: -599189
+LHT[30] after changing: -1198378
+global_history after the shift: 278
+---------make predicton----------
+addr_g:299, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 278
+pc_index: 61
+local_predictor_after: 0
+LHT[61] before changing: 0
+LHT[61] after changing: 0
+global_history after the shift: 44
+---------make predicton----------
+addr_g:65, g_pred:0
+l_pred:3,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 44
+pc_index: 109
+local_predictor_after: 2
+LHT[109] before changing: 2134300398
+LHT[109] after changing: -26366500
+global_history after the shift: 88
+---------make predicton----------
+addr_g:47, g_pred:1
+l_pred:0,g_pred:1
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 88
+pc_index: 119
+local_predictor_after: 0
+LHT[119] before changing: 0
+LHT[119] after changing: 0
+global_history after the shift: 176
+---------make predicton----------
+addr_g:44, g_pred:0
+l_pred:3,g_pred:0
+With selector = 1
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 176
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -537137154
+LHT[156] after changing: -1074274307
+global_history after the shift: 353
+---------make predicton----------
+addr_g:509, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 1021, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 353
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -1074274307
+LHT[156] after changing: 2146418683
+global_history after the shift: 195
+---------make predicton----------
+addr_g:95, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 1019, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 195
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: 2146418683
+LHT[156] after changing: -2129929
+global_history after the shift: 391
+---------make predicton----------
+addr_g:283, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 1015, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 391
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -2129929
+LHT[156] after changing: -4259857
+global_history after the shift: 271
+---------make predicton----------
+addr_g:403, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 1007, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 271
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -4259857
+LHT[156] after changing: -8519713
+global_history after the shift: 31
+---------make predicton----------
+addr_g:131, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 991, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 31
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -8519713
+LHT[156] after changing: -17039425
+global_history after the shift: 63
+---------make predicton----------
+addr_g:163, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 959, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 63
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -17039425
+LHT[156] after changing: -34078849
+global_history after the shift: 127
+---------make predicton----------
+addr_g:227, g_pred:3
+l_pred:2,g_pred:3
+With selector = 2
+addr_l = 895, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 127
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -34078849
+LHT[156] after changing: -68157697
+global_history after the shift: 255
+---------make predicton----------
+addr_g:99, g_pred:3
+l_pred:3,g_pred:3
+With selector = 2
+addr_l = 767, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 255
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -68157697
+LHT[156] after changing: -136315393
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:2
+l_pred:3,g_pred:2
+With selector = 2
+addr_l = 511, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -136315393
+LHT[156] after changing: -272630785
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:3
+l_pred:1,g_pred:3
+With selector = 2
+addr_l = 1023, using local result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 2
+LHT[156] before changing: -272630785
+LHT[156] after changing: -545261569
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:3
+l_pred:2,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 3
+LHT[156] before changing: -545261569
+LHT[156] after changing: -1090523137
+global_history after the shift: 511
+---------make predicton----------
+addr_g:355, g_pred:3
+l_pred:3,g_pred:3
+With selector = 1
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 511
+pc_index: 156
+local_predictor_after: 2
+LHT[156] before changing: -1090523137
+LHT[156] after changing: 2113921022
+global_history after the shift: 510
+---------make predicton----------
+addr_g:348, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 510
+pc_index: 162
+local_predictor_after: 0
+LHT[162] before changing: 0
+LHT[162] after changing: 0
+global_history after the shift: 508
+---------make predicton----------
+addr_g:316, g_pred:3
+l_pred:0,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 508
+pc_index: 192
+local_predictor_after: 1
+LHT[192] before changing: -672274937
+LHT[192] after changing: -1344549873
+global_history after the shift: 505
+---------make predicton----------
+addr_g:317, g_pred:1
+l_pred:2,g_pred:1
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 505
+pc_index: 196
+local_predictor_after: 1
+LHT[196] before changing: 672274936
+LHT[196] after changing: 1344549872
+global_history after the shift: 498
+---------make predicton----------
+addr_g:319, g_pred:3
+l_pred:2,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 498
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -8995846
+LHT[205] after changing: -17991691
+global_history after the shift: 485
+---------make predicton----------
+addr_g:293, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 485
+pc_index: 192
+local_predictor_after: 2
+LHT[192] before changing: -1344549873
+LHT[192] after changing: 1605867550
+global_history after the shift: 458
+---------make predicton----------
+addr_g:270, g_pred:3
+l_pred:2,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 458
+pc_index: 196
+local_predictor_after: 3
+LHT[196] before changing: 1344549872
+LHT[196] after changing: -1605867551
+global_history after the shift: 405
+---------make predicton----------
+addr_g:344, g_pred:3
+l_pred:3,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 405
+pc_index: 205
+local_predictor_after: 3
+LHT[205] before changing: -17991691
+LHT[205] after changing: -35983381
+global_history after the shift: 299
+---------make predicton----------
+addr_g:491, g_pred:1
+l_pred:0,g_pred:1
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 299
+pc_index: 192
+local_predictor_after: 0
+LHT[192] before changing: 1605867550
+LHT[192] after changing: -1083232196
+global_history after the shift: 86
+---------make predicton----------
+addr_g:146, g_pred:3
+l_pred:3,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 86
+pc_index: 196
+local_predictor_after: 3
+LHT[196] before changing: -1605867551
+LHT[196] after changing: 1083232195
+global_history after the shift: 173
+---------make predicton----------
+addr_g:96, g_pred:3
+l_pred:1,g_pred:3
+With selector = 1
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 173
+pc_index: 205
+local_predictor_after: 2
+LHT[205] before changing: -35983381
+LHT[205] after changing: -71966761
+global_history after the shift: 347
+---------make predicton----------
+addr_g:411, g_pred:2
+l_pred:1,g_pred:2
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 347
+pc_index: 192
+local_predictor_after: 2
+LHT[192] before changing: -1083232196
+LHT[192] after changing: 2128502905
+global_history after the shift: 183
+---------make predicton----------
+addr_g:115, g_pred:0
+l_pred:3,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 183
+pc_index: 196
+local_predictor_after: 2
+LHT[196] before changing: 1083232195
+LHT[196] after changing: -2128502906
+global_history after the shift: 366
+---------make predicton----------
+addr_g:419, g_pred:2
+l_pred:3,g_pred:2
+With selector = 0
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 366
+pc_index: 205
+local_predictor_after: 2
+LHT[205] before changing: -71966761
+LHT[205] after changing: -143933522
+global_history after the shift: 220
+---------make predicton----------
+addr_g:59, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 220
+pc_index: 231
+local_predictor_after: 0
+LHT[231] before changing: 268632064
+LHT[231] after changing: 537264128
+global_history after the shift: 440
+---------make predicton----------
+addr_g:155, g_pred:2
+l_pred:0,g_pred:2
+With selector = 3
+addr_l = 731, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 440
+pc_index: 291
+local_predictor_after: 0
+LHT[291] before changing: -1229268261
+LHT[291] after changing: 1836430774
+global_history after the shift: 368
+---------make predicton----------
+addr_g:636, g_pred:0
+l_pred:3,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 368
+pc_index: 780
+local_predictor_after: 2
+LHT[780] before changing: -2097168
+LHT[780] after changing: -4194336
+global_history after the shift: 224
+---------make predicton----------
+addr_g:1018, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 224
+pc_index: 794
+local_predictor_after: 0
+LHT[794] before changing: 0
+LHT[794] after changing: 0
+global_history after the shift: 448
+---------make predicton----------
+addr_g:744, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 448
+pc_index: 808
+local_predictor_after: 0
+LHT[808] before changing: 0
+LHT[808] after changing: 0
+global_history after the shift: 384
+---------make predicton----------
+addr_g:760, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 384
+pc_index: 888
+local_predictor_after: 0
+LHT[888] before changing: 0
+LHT[888] after changing: 0
+global_history after the shift: 256
+---------make predicton----------
+addr_g:714, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 256
+pc_index: 970
+local_predictor_after: 0
+LHT[970] before changing: 293912848
+LHT[970] after changing: 587825696
+global_history after the shift: 0
+---------make predicton----------
+addr_g:364, g_pred:2
+l_pred:0,g_pred:2
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 0
+pc_index: 364
+local_predictor_after: 0
+LHT[364] before changing: 0
+LHT[364] after changing: 0
+global_history after the shift: 0
+---------make predicton----------
+addr_g:373, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 0
+pc_index: 373
+local_predictor_after: 0
+LHT[373] before changing: 818889256
+LHT[373] after changing: 1637778512
+global_history after the shift: 0
+---------make predicton----------
+addr_g:413, g_pred:3
+l_pred:0,g_pred:3
+With selector = 1
+using global result
+Miss!
+prediction: 1
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 0
+pc_index: 413
+local_predictor_after: 0
+LHT[413] before changing: 982076233
+LHT[413] after changing: 1964152466
+global_history after the shift: 0
+---------make predicton----------
+addr_g:468, g_pred:3
+l_pred:3,g_pred:3
+With selector = 0
+using global result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 0
+pc_index: 468
+local_predictor_after: 3
+LHT[468] before changing: -24305
+LHT[468] after changing: -48609
+global_history after the shift: 1
+---------make predicton----------
+addr_g:121, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 1
+pc_index: 120
+local_predictor_after: 0
+LHT[120] before changing: 0
+LHT[120] after changing: 0
+global_history after the shift: 2
+---------make predicton----------
+addr_g:183, g_pred:2
+l_pred:0,g_pred:2
+With selector = 3
+addr_l = 2, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 2
+pc_index: 181
+local_predictor_after: 0
+LHT[181] before changing: 2
+LHT[181] after changing: 4
+global_history after the shift: 4
+---------make predicton----------
+addr_g:200, g_pred:1
+l_pred:3,g_pred:1
+With selector = 3
+addr_l = 682, using local result
+prediction: 1
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 4
+pc_index: 204
+local_predictor_after: 3
+LHT[204] before changing: -1431655766
+LHT[204] after changing: 1431655765
+global_history after the shift: 9
+---------make predicton----------
+addr_g:289, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 9
+pc_index: 296
+local_predictor_after: 0
+LHT[296] before changing: -5242672
+LHT[296] after changing: -10485344
+global_history after the shift: 18
+---------make predicton----------
+addr_g:364, g_pred:1
+l_pred:2,g_pred:1
+With selector = 0
+using global result
+Miss!
+prediction: 0
+
+---------train predictor---------
+outcome: 1
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 18
+pc_index: 382
+local_predictor_after: 3
+LHT[382] before changing: -1
+LHT[382] after changing: -1
+global_history after the shift: 37
+---------make predicton----------
+addr_g:444, g_pred:2
+l_pred:0,g_pred:2
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 37
+pc_index: 409
+local_predictor_after: 0
+LHT[409] before changing: 0
+LHT[409] after changing: 0
+global_history after the shift: 74
+---------make predicton----------
+addr_g:493, g_pred:0
+l_pred:0,g_pred:0
+With selector = 2
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:2
+gmask: 511
+bhr: 74
+pc_index: 423
+local_predictor_after: 0
+LHT[423] before changing: 0
+LHT[423] after changing: 0
+global_history after the shift: 148
+---------make predicton----------
+addr_g:326, g_pred:0
+l_pred:1,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 148
+pc_index: 466
+local_predictor_after: 0
+LHT[466] before changing: -1473600427
+LHT[466] after changing: 1347766442
+global_history after the shift: 296
+---------make predicton----------
+addr_g:243, g_pred:0
+l_pred:1,g_pred:0
+With selector = 3
+addr_l = 260, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 296
+pc_index: 475
+local_predictor_after: 0
+LHT[475] before changing: 537395460
+LHT[475] after changing: 1074790920
+global_history after the shift: 80
+---------make predicton----------
+addr_g:566, g_pred:0
+l_pred:0,g_pred:0
+With selector = 0
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:0
+gmask: 511
+bhr: 80
+pc_index: 614
+local_predictor_after: 0
+LHT[614] before changing: 0
+LHT[614] after changing: 0
+global_history after the shift: 160
+---------make predicton----------
+addr_g:732, g_pred:0
+l_pred:0,g_pred:0
+With selector = 3
+addr_l = 0, using local result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:3
+gmask: 511
+bhr: 160
+pc_index: 636
+local_predictor_after: 0
+LHT[636] before changing: 0
+LHT[636] after changing: 0
+global_history after the shift: 320
+---------make predicton----------
+addr_g:1017, g_pred:0
+l_pred:0,g_pred:0
+With selector = 1
+using global result
+prediction: 0
+
+---------train predictor---------
+outcome: 0
+pcmask:1023, de_pcmask_high:0
+selector_after:1
+gmask: 511
+bhr: 320
+pc_index: 697
+local_predictor_after: 0
+LHT[697] before changing: 134217728
+LHT[697] after changing: 268435456
+global_history after the shift: 128
+--Branches:           3771697
+--Incorrect:           544102
+--Misprediction Rate:  14.426
+Global prediction takes up:  22.856
+Global misprediction Rate:  18.605
+Local prediction takes up:  77.144
+Local misprediction Rate:  13.188
+non_0 in BHT:310
+non_WN in BPT:873

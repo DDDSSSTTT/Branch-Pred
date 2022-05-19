@@ -1,0 +1,1 @@
+awk -F, '{c[$0]++} END{for (i in c) print i, c[i]}' | bunzip2 -kc ../traces/int_1.bz2

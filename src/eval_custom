@@ -1,0 +1,5 @@
+for trace in fp_1 fp_2 int_1 int_2 mm_1 mm_2
+do
+	echo "$trace"
+	bunzip2 -kc ../traces/$trace.bz2 | ./predictor --custom:11:10:10
+done
