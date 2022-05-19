@@ -1,5 +1,5 @@
 # CSE240A Branch Predictor Project
-
+DO YOUR OWN HOMEWORK! PLEASE DO NOT COPY!
 ## Table of Contents
   * [Introduction](#introduction)
   * [Code Integrity](#code-integrity)
